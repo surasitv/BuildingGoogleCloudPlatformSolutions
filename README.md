@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/BuildingGoogleCloudPlatformSolutions/pulls)
 
 # Building Google Cloud Platform Solutions
-Google Cloud Platform (GCP) provides autoscaling compute power and distributed in-memory cache, task queues, and datastores to write, build, and deploy Cloud-hosted applications.
+Google Cloud Platform (GCP) provides autoscaling compute power and distributed in-memory cache, task queues, and datastores to write, build, and deploy Cloud-hosted applications. Test Change
 
 This course will help you develop and deploy scalable applications from scratch and make them globally available in almost any language. This course will guide you in designing, deploying, and managing applications running on Google Cloud. You’ll start with App Engine and move on to work with Container Engine, compute engine, and cloud functions. You’ll learn how to integrate your new applications with the various data solutions on GCP, including Cloud SQL, Bigtable, and Cloud Storage. The next installment of the course starts with practical recipes that explain how to utilize Google Cloud's common services. There are recipes on implementing authentication and security, Cloud APIs, command-line management, deployment management, and the Cloud SDK. Finally, we'll cover administration troubleshooting tasks with the Compute and Container Engines and we'll show how to monitor your organization's efficiency with best practices.
 
